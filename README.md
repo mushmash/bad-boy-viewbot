@@ -16,3 +16,11 @@ Enjoy!
 
  Mushmash
 
+
+
+
+
+Buy me a coffee!
+BTC - 37vr1wMWdAkvph6JAzf622UmnzGYumU4Mq
+
+ETH - 0xba30137fb2Ba34074457847b4B91Cb8C4F368c19
