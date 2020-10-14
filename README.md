@@ -14,5 +14,5 @@ Setup:
 
 Enjoy!
 
-- Mushmash's Viewbot
+ Mushmash
 
