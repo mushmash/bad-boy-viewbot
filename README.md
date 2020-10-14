@@ -2,7 +2,7 @@ Mushmash's Badboy Viewbot
 -
 
 Requirement:
-Nulled Account with all requiremnts fulfilled to get your auth key.
+Nulled Account with all requirements fulfilled to get your auth key.
 
 -
 Setup:
