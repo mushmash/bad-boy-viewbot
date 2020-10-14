@@ -1,4 +1,4 @@
-Mushmash's Badboy Viewbot
+Mushmash's Badboy Viewbot (Ebay, Imgur, Pastebin, and more!)
 -
 
 Requirement:
